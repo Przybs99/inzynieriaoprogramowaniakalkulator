@@ -1,6 +1,10 @@
 
 def hello(name):
 	return "Hello" + str(name)
+
+def odejmij(a,b)
+	return a -b
+
 def dodaj (a,b)
 	wynik=float(a) + float(b)
 	return wynik
@@ -8,4 +12,4 @@ def dodaj (a,b)
 pierwsza = input()
 druga= input()
 
-print(dodaj(pierwsza,druga
+print(dodaj(pierwsza,druga))
