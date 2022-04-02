@@ -1,5 +1,5 @@
 Autor: Jan
 data: kwiecien
 
-to jest repo testowe z io
-będą tu 1 próby dotycząće commitów i branchy
+to jest repo z kalkulatorem z io
+będą tu 1 próby dotycząće commitów i branchy oraz funkcje tworzace kalkulator
