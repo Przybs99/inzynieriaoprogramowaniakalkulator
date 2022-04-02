@@ -9,6 +9,7 @@ def dodaj (a,b)
 	wynik=float(a) + float(b)
 	return wynik
 
+print("goodbye world")
 pierwsza = input()
 druga= input()
 
